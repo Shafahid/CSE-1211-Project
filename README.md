@@ -5,9 +5,9 @@
 
 University of Dhaka
 
-Project Name: Brain Code: Renovo
+Project Name -> Brain Code: Renovo
 
-Project Description:
+Project Description:<br>
 ‘Brain-Code Renovo’ is a mix of mental challenge and fun game. The game is made for the ones
 who really want to get fun through different types of brainstorming questions .The game
 consists of three levels. The first level tests players' IQ and logical thinking.The second level
