@@ -19,14 +19,14 @@ and entertainment. The scores and the correct answers motivates players to striv
 solutions.
 
 Team Members:
-
-Sumaiya Rahman Soma
+<br>
+Sumaiya Rahman Soma<br>
 Github: https://github.com/srs4929
-
-Aditto Raihan
+<br>
+Aditto Raihan<br>
 Github: https://github.com/aditto007/
-
-Chowdhury Shafahid Rahman
+<br>
+Chowdhury Shafahid Rahman<br>
 Github: https://github.com/Shafahid
-
+<br>
 </p>
